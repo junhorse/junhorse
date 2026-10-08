@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360" role="img" aria-label="KIMJUNHO — Portfolio">
+  <defs>
+    <radialGradient id="glow" cx="0.12" cy="0" r="0.9">
+      <stop offset="0" stop-color="#ec3327" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#ec3327" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      .d { font-family: Anton, Impact, 'Arial Black', sans-serif; }
+      .s { font-family: 'Archivo', 'Helvetica Neue', Arial, sans-serif; font-weight: 600; letter-spacing: .18em; }
+      .k { font-family: 'Noto Sans KR', 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif; font-weight: 800; }
+    </style>
+  </defs>
+  <rect width="1200" height="360" rx="20" fill="#0d0d0e"/>
+  <rect width="1200" height="360" rx="20" fill="url(#glow)"/>
+  <text x="44" y="56" class="s" font-size="13" fill="#9a9a9e">KOREAN MEDICINE · BUILDER</text>
+  <text x="1156" y="56" class="s" font-size="13" fill="#9a9a9e" text-anchor="end">PORTFOLIO 2026</text>
+  <text x="40" y="214" class="d" font-size="168"><tspan fill="#ec3327">PORT</tspan><tspan fill="none" stroke="#ec3327" stroke-width="2">FOLIO</tspan></text>
+  <text x="44" y="268" class="k" font-size="30" fill="#f4f3f1">김준호 <tspan fill="#ec3327">/</tspan> KIMJUNHO</text>
+  <text x="1156" y="268" class="k" font-size="17" fill="#9a9a9e" text-anchor="end" font-weight="500">한의학을 공부하면서, 필요한 도구는 직접 만듭니다</text>
+  <g transform="translate(0 300) rotate(-1 600 30)">
+    <rect x="-20" y="6" width="1240" height="46" fill="#ec3327"/>
+    <svg x="0" y="6" width="1200" height="46">
+      <g>
+        <text x="12" y="34" class="d" font-size="24" fill="#0d0d0e" letter-spacing="1">KOREAN MEDICINE ✦ 3D ANATOMY ✦ AI AGENTS ✦ NEXT.JS ✦ SUPABASE ✦ THREE.JS ✦ KOREAN MEDICINE ✦ 3D ANATOMY ✦ AI AGENTS ✦ NEXT.JS ✦ SUPABASE ✦ THREE.JS ✦ KOREAN MEDICINE ✦ 3D ANATOMY ✦</text>
+      </g>
+    </svg>
+  </g>
+</svg>
